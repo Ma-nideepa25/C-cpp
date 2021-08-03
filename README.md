@@ -1,2 +1,2 @@
 # C-cpp
-This repository consist of cpp files.
+It consist of tree structure and singly Linked list programs. 
